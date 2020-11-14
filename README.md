@@ -1,1 +1,1 @@
-# Wallpapers used in SMD-Linux
+# Wallpapers Used in SMD-Linux
