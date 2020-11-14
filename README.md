@@ -1,2 +1,1 @@
-# arch-wallpapers
-Credit: https://github.com/arcolinux/
+# Wallpapers used in SMD-Linux
